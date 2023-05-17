@@ -10,6 +10,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Algorithm
 1.Import standard libraries in python for finding Decision tree classsifier model for predicting 
 employee churn.
+
 2.Initialize and print the Data.head(),data.info(),data.isnull().sum()
 3.visualize data value count.
 4.import sklearn from LabelEncoder.
