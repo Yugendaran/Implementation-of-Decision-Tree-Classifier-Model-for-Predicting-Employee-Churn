@@ -72,7 +72,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/7f03738f-ea1f-4338-a98b-1ef247f52708)
 
-![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/7c3d091a-9a83-422f-92d0-4d7c0c67dba0)
+![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/a4e857d7-6fa3-4dc1-b615-ec4f8433c511)
 
 ![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/ff85899e-0a75-4138-9b2a-d9abcdf20138)
 
