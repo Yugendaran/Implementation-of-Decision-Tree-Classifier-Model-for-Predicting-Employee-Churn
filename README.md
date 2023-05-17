@@ -66,7 +66,10 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-// file:///home/sec/Pictures/Screenshot%20from%202023-05-15%2014-02-34.png![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/aad92dda-d4ee-40ee-8e3a-a747e72b22bf)
+![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/b1162149-bbea-43a7-96a9-354fd108a151)
+
+![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/bfe60847-ed9a-487c-a700-b43dca8659a5)
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
